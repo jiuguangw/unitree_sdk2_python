@@ -15,10 +15,4 @@ setup(name='unitree_sdk2py',
       project_urls={
             "Source Code": "https://github.com/unitreerobotics/unitree_sdk2_python",
       },
-      python_requires='>=3.8',
-      install_requires=[
-            "cyclonedds==0.10.2",
-            "numpy",
-            "opencv-python",
-      ],
       )
